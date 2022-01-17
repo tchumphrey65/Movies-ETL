@@ -46,4 +46,5 @@
 - The elapsed time to add the data to the database is displayed in the ETL_create_database.ipynb file.
 
 ### 5. Resources
-
+Data Source: movies_metadata.csv; ratings.csv; wikipedia-movies.json
+Software: Python 3.7.11 64-bit (conda); jupyter-notebook; PGAgmin v6.4
