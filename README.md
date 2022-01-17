@@ -47,4 +47,5 @@
 
 ### 5. Resources
 Data Source: movies_metadata.csv; ratings.csv; wikipedia-movies.json
+
 Software: Python 3.7.11 64-bit (conda); jupyter-notebook; PGAgmin v6.4
